@@ -1,3 +1,4 @@
+"before, all" ,hook in "{root}"
 describe('employees', function() {
   describe('updateEmployeeWithKeyAndValue(employee, key, value)', function () {
     beforeEach(function () {
